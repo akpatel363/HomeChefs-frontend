@@ -1,0 +1,29 @@
+export const TASK_START = 'TASK_START';
+export const TASK_ERROR = 'TASK_ERROR';
+export const RESET_TASK = 'RESET_TASK';
+
+export const AUTH_LOGIN = 'AUTH_LOGIN';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const AUTH_SET_REDIRECT = 'AUTH_SET_REDIRECT';
+export const UPDATE_PROFILE = 'UPDATE_PROFILE';
+
+export const FETCH_RECIPES = 'FETCH_RECIPES';
+export const RESET_RECIPES = 'RESET_RECIPES';
+
+export const RESET_ACTIVE_RECIPE = 'RESET_ACTIVE_RECIPE';
+export const FETCH_DETAILS = 'FETCH_DETAILS';
+
+export const SET_SEARCH = 'SET_SEARCH';
+export const FETCH_QUESTIONS = 'FETCH_QUESTIONS';
+export const POST_QUESTION = 'POST_QUESTION';
+export const POST_ANSWER = 'POST_ANSWER';
+
+export const SET_RATINGS_SEARCH = 'SET_RATINGS_SEARCH';
+export const FETCH_RATINGS = 'FETCH_RATINGS';
+export const FETCH_MY_RATING = 'FETCH_MY_RATING';
+export const POST_MY_RATING = 'POST_MY_RATING';
+
+export const FETCH_MY_RECIPES = 'FETCH_MY_RECIPES';
+export const POST_RECIPE = 'POST_RECIPE';
+export const DELETE_RECIPE = 'DELETE_RECIPE';
+export const EDIT_RECIPE = 'EDIT_RECIPE';
